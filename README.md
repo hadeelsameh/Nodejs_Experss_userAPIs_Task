@@ -3,6 +3,7 @@
 ### 2 APIs based on Express and Node js.Used packages : "fs".peomises , "express"
 
 
+<<<<<<< HEAD
 ### 1. GET user name ApI (/save-user): 
    gets the user name and age , generate id ,and store them in "text.json" file in array of json object format.
 
@@ -32,3 +33,14 @@
 
 
 
+=======
+### 1. GET user name ApI (/getusername): gets the user name and store it in "text.txt" file (space separated).
+
+   ![alt text](https://github.com/hadeelsameh/Nodejs_Experss_userAPIs_Task/blob/main/get_user_name_api_test_result.PNG)
+
+   
+###   2. GET API to list all registered users in "text.txt" as a json array format (/listusers).
+   
+   ![alt text](https://github.com/hadeelsameh/Nodejs_Experss_userAPIs_Task/blob/main/list_users_APi_result.PNG)
+    
+>>>>>>> e9824433b5ab2aa247f8b54d86f73db98f85367f
