@@ -1,6 +1,6 @@
 # Nodejs_Experss_userAPIs_Task
 
-### 5 User APIs based on Express and Node js.Used packages : "fs".peomises , "express"
+### 5 User APIs based on Express and Node js.Used packages : "fs".promises , "express"
 
 ### 1. GET user name ApI (/save-user): 
    gets the user name and age , generate id ,and store them in "text.json" file in array of json object format.
